@@ -1,0 +1,31 @@
+.van-nav-bar {
+  height: 1.6rem;
+  line-height: 1.6rem;
+  background: #d81e07;
+}
+.van-nav-bar__title {
+  color: #fff;
+  letter-spacing: 0.026667rem;
+}
+.happy-scroll-content {
+  display: block !important;
+}
+.happy-scroll-container {
+  width: 100% !important;
+}
+
+.van-field__body {
+  height: 100%;
+}
+.van-nav-bar__arrow {
+  font-size: 0.586667rem;
+}
+.van-nav-bar .van-icon {
+  color: #fff;
+}
+.van-goods-action {
+  z-index: 99;
+}
+.van-image-preview__image {
+  background-color: #000;
+}
